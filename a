@@ -1,0 +1,295 @@
+Validating models...
+
+0 errors found
+January 14, 2015 - 18:28:11
+Django version 1.6.7, using settings 'ViralPost.settings'
+Starting development server at http://localhost:8080/
+Quit the server with CONTROL-C.
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:batch="http://schemas.google.com/gdata/batch" xmlns:gContact="http://schemas.google.com/contact/2008" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">
+ <id>rachna3singhal@gmail.com</id>
+ <updated>2015-01-14T18:28:36.127Z</updated>
+ <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+ <title type="text">Rachna Singhal's Contacts</title>
+ <link rel="alternate" type="text/html" href="https://www.google.com/"/>
+ <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full"/>
+ <link rel="http://schemas.google.com/g/2005#post" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full"/>
+ <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/batch"/>
+ <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full?max-results=25"/>
+ <link rel="next" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full?max-results=25&amp;start-index=26"/>
+ <author>
+  <name>Rachna Singhal</name>
+  <email>rachna3singhal@gmail.com</email>
+ </author>
+ <generator version="1.0" uri="http://www.google.com/m8/feeds">Contacts</generator>
+ <openSearch:totalResults>45</openSearch:totalResults>
+ <openSearch:startIndex>1</openSearch:startIndex>
+ <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/36a0f5d8db62441</id>
+  <updated>2015-01-04T19:10:54.126Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Jaya Srivastava</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/36a0f5d8db62441/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/36a0f5d8db62441"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/36a0f5d8db62441/1420398654126001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="jiya1093@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/5a7b23088e0d6f3</id>
+  <updated>2014-10-31T11:01:32.035Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Jayesh Sidhwani</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/5a7b23088e0d6f3/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/5a7b23088e0d6f3"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/5a7b23088e0d6f3/1414753292035001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="jayeshsidhwani@shopsense.co" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/ba0c09f88f2e0f0</id>
+  <updated>2015-01-13T16:31:08.371Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Ramnique Singh</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/ba0c09f88f2e0f0/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/ba0c09f88f2e0f0"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/ba0c09f88f2e0f0/1421166668371001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="ramnique@grallo.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/125953c40aa98042</id>
+  <updated>2014-12-16T14:49:57.897Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Taranjeet Singh</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/125953c40aa98042/utsiWOx4wGf0EuQmXrUAKA"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/125953c40aa98042"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/125953c40aa98042"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/125953c40aa98042/1418741397897000"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="reachtotj@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/1902b65989fe353e</id>
+  <updated>2015-01-06T22:08:56.008Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Amit Rao</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/1902b65989fe353e/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/1902b65989fe353e"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/1902b65989fe353e/1420582136008001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="amit@embibe.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/19cf5be40f493a94</id>
+  <updated>2015-01-13T16:31:08.371Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Anand Jeyahar</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/19cf5be40f493a94/CpX3Gdgq7-UK8LVKLUiTxg"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/19cf5be40f493a94"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/19cf5be40f493a94"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/19cf5be40f493a94/1421166668371001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="anand.jeyahar@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/1b9244fa8da7dcd1</id>
+  <updated>2014-10-15T16:36:58.149Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/1b9244fa8da7dcd1/gTVYC7HneqqRYMcmJbkKOA"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/1b9244fa8da7dcd1"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/1b9244fa8da7dcd1"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/1b9244fa8da7dcd1/1413391018149001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="genius.saumyasingh@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/1e54b1a40abb6c37</id>
+  <updated>2014-10-20T08:03:55.726Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Dharmendra Verma</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/1e54b1a40abb6c37/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/1e54b1a40abb6c37"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/1e54b1a40abb6c37/1413792235726001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="dharmendraverma@shopsense.co" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/22f86ca989b073d6</id>
+  <updated>2014-11-28T22:14:46.570Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">ankit tiwari</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/22f86ca989b073d6/tZR6bZGv177EfFFxZQ0Vpg"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/22f86ca989b073d6"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/22f86ca989b073d6"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/22f86ca989b073d6/1417212886570001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="ankitdex@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/25c018300d7f7463</id>
+  <updated>2015-01-09T18:28:12.623Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Padam Prakash Bengani</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/25c018300d7f7463/gq7n_mQ0RHEk-Vxaqgun9g"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/25c018300d7f7463"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/25c018300d7f7463"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/25c018300d7f7463/1420828092623001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="padam.bengani@viralpost.in" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/2e707f34898b0a57</id>
+  <updated>2014-09-18T05:01:45.431Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Shubham Gupta</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/2e707f34898b0a57/vXt8UiyocWXxIkQfIBwZ7A"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/2e707f34898b0a57"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/2e707f34898b0a57"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/2e707f34898b0a57/1411016505431001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="shubham.gupta2021@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/3539902209a00345</id>
+  <updated>2014-11-28T22:14:46.570Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">anilkumar nagella</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/3539902209a00345/vRcEC-FdtYwKnjsheEJ2mQ"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/3539902209a00345"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3539902209a00345"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3539902209a00345/1417212886570001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="anil.in2em@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/394b5d368a84a720</id>
+  <updated>2014-08-03T21:32:46.012Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Abhishek Tiwari</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/394b5d368a84a720/bd9GzyujoUnGxXO_MHAiow"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/394b5d368a84a720"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/394b5d368a84a720"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/394b5d368a84a720/1407101566012001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="erbdex@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/3b8ba0b18bea37ac</id>
+  <updated>2014-10-22T06:43:13.037Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Sarika Khaire</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/3b8ba0b18bea37ac/sFPZeBbCq26_7V652d5_lw"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/3b8ba0b18bea37ac"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3b8ba0b18bea37ac"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3b8ba0b18bea37ac/1413960193037001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="sarikakhaire@shopsense.co" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/3e7f1ba78eb5ecd8</id>
+  <updated>2014-08-04T19:16:20.399Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Tanmay Kakkar</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/3e7f1ba78eb5ecd8/C4K4gSA0jOLFD-AGKn3mvg"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/3e7f1ba78eb5ecd8"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3e7f1ba78eb5ecd8"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3e7f1ba78eb5ecd8/1407179780399001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="tanmay.kakkar@gmail.com" primary="true"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="tanmaykakkar@gmail.com"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/3f58ceab08f37d78</id>
+  <updated>2014-11-12T17:20:15.860Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Kopal Seth</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/3f58ceab08f37d78/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3f58ceab08f37d78"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/3f58ceab08f37d78/1415812815860002"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="kopal.seth01@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/4220f8f78ede3d3a</id>
+  <updated>2015-01-13T16:31:08.371Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Sapna Khanna</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/4220f8f78ede3d3a/gdB4zhbLJ9v_x03kCXoCsA"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/4220f8f78ede3d3a"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/4220f8f78ede3d3a"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/4220f8f78ede3d3a/1421166668371001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="sapna@whyable.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/4439b24a8b96dc70</id>
+  <updated>2014-11-28T22:14:46.570Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Sriram</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/4439b24a8b96dc70/o720hL4N0AWhkS9wBQoktg"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/4439b24a8b96dc70"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/4439b24a8b96dc70"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/4439b24a8b96dc70/1417212886570001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="sriram.max@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/444f37210c146cd2</id>
+  <updated>2014-08-28T08:53:32.554Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/444f37210c146cd2/Hnf26kJU3dL-p2CzZr71hg"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/444f37210c146cd2"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/444f37210c146cd2"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/444f37210c146cd2/1409216012554001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="rachit.rudeways@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/4d00b1b588802ab6</id>
+  <updated>2014-09-17T21:42:19.847Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/4d00b1b588802ab6/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/4d00b1b588802ab6"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/4d00b1b588802ab6/1410990139847001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="abhishek@thinqbot.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/512294928b5deea4</id>
+  <updated>2014-12-14T16:09:38.714Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/512294928b5deea4/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/512294928b5deea4"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/512294928b5deea4/1418573378714001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="hr@shopzoi.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/512d24668b72d257</id>
+  <updated>2014-11-29T11:59:18.253Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Saumya Sinha</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/512d24668b72d257/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/512d24668b72d257"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/512d24668b72d257/1417262358253001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="saumyasinha023@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/5186d1e78b5e29a3</id>
+  <updated>2014-11-28T22:14:46.570Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">Devesh Parmar</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/5186d1e78b5e29a3/JyO7jl4LIV7NTgYIVI8GtA"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/5186d1e78b5e29a3"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/5186d1e78b5e29a3"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/5186d1e78b5e29a3/1417212886570001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="devaks09@gmail.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/51b1e3d98b42ef5e</id>
+  <updated>2014-11-28T22:14:46.570Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text">nikhil s</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/51b1e3d98b42ef5e/1B2M2Y8AsgTpgAmY7PhCfg"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/51b1e3d98b42ef5e"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/51b1e3d98b42ef5e/1417212886570001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="nikhil@thinqbot.com" primary="true"/>
+ </entry>
+ <entry>
+  <id>http://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/base/5468ead68fb370ae</id>
+  <updated>2014-11-12T16:47:20.572Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title type="text"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#edit-photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/5468ead68fb370ae/ByBKjq6Yuqtw6tatkmVScg"/>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/rachna3singhal%40gmail.com/5468ead68fb370ae"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/5468ead68fb370ae"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/rachna3singhal%40gmail.com/full/5468ead68fb370ae/1415810840572001"/>
+  <gd:email rel="http://schemas.google.com/g/2005#other" address="shalu919@gmail.com" primary="true"/>
+ </entry>
+</feed>
+
